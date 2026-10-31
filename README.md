@@ -40,7 +40,7 @@ Say order IDs digit by digit.
 3. Open the published repo on github.com and confirm there is **no `.env`** and no dataset folder. Paste its URL
    below and in your report.
 
-GitHub URL: `[<paste here>](https://github.com/Anubrajo-Ghosh/voiceops_capstone)`
+GitHub URL: `https://github.com/Anubrajo-Ghosh/voiceops_capstone`
 
 ## D. Final submission
 
