@@ -1,0 +1,7 @@
+anthropic>=0.40          # LLM (any hosted/open model is allowed; set LLM_PROVIDER=openai to use an OpenAI-compatible endpoint)
+gnani-vachana            # Gnani STT + TTS SDK (the only speech services allowed)
+openai>=1.40            # used for Gemini (OpenAI-compatible endpoint) or any OpenAI-style model
+requests
+python-dotenv
+flask                    # demo_app.py only
+# sentence-transformers  # optional: USE_DENSE=1 enables dense retrieval fused with BM25
